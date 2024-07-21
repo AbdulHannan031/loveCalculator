@@ -9,8 +9,8 @@ A Flutter application that calculates love compatibility between two individuals
 Include screenshots of your app here. For example:
 
 ![Splash Screen](Screenshots/Screenshot_20240722-044943__01__01.jpg)
-![Input Screen](screenshots/input_screen.png)
-![Result Screen](screenshots/result_screen.png)
+![Input Screen](Screenshots/Screenshot_20240722-044953__01.jpg)
+![Result Screen](Screenshots/Screenshot_20240722-045013__01.jpg)
 
 ## Features
 
