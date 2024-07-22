@@ -6,7 +6,6 @@ A Flutter application that calculates love compatibility between two individuals
 
 ## Screenshots
 
-Include screenshots of your app here. For example:
 
 ![Splash Screen](Screenshots/Screenshot_20240722-044943__01__01.jpg)
 ![Input Screen](Screenshots/Screenshot_20240722-044953__01.jpg)
